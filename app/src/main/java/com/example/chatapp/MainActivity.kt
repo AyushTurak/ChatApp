@@ -16,7 +16,7 @@ import com.google.firebase.database.ValueEventListener
 
 class MainActivity : AppCompatActivity() {
 private lateinit var reView: RecyclerView
-private lateinit var userList:ArrayList<User>
+private lateinit var userList:ArrayList<User>-
 private lateinit var adapter:UserAdapter
 private lateinit var mAuth:FirebaseAuth
 private lateinit var mDbRef : DatabaseReference

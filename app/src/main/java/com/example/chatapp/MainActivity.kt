@@ -20,6 +20,7 @@ private lateinit var userList:ArrayList<User>
 private lateinit var adapter:UserAdapter
 private lateinit var mAuth:FirebaseAuth
 private lateinit var mDbRef : DatabaseReference
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -42,13 +43,13 @@ private lateinit var mDbRef : DatabaseReference
                     if(mAuth.currentUser?.uid != currentUser?.uid){
                         userList.add(currentUser!!)
                     }
-
                 }
+
                 adapter.notifyDataSetChanged()
             }
 
             override fun onCancelled(error: DatabaseError) {
-                TODO("Not yet implemented")
+
             }
 
         })

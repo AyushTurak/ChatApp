@@ -12,9 +12,5 @@
         android:textSize="30sp"
         android:textStyle="bold"
         android:layout_marginLeft="10dp"/>
-    <View
-        android:layout_marginTop="5dp"
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:background="@color/black"/>
+
 </RelativeLayout>

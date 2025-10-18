@@ -8,7 +8,7 @@ This app demonstrates clean architecture, API integration, and an intuitive chat
 ## 🚀 Overview
 
 **ChatApp** allows users to send and receive real-time messages through an integrated backend API.  
-It showcases how to build a smooth and responsive chat interface using **XML**, **Retrofit**, and **ViewModel (MVVM)** architecture.
+It showcases how to build a smooth and responsive chat interface using **XML**, and **ViewModel (MVVM)** architecture.
 
 ---
 
@@ -19,7 +19,6 @@ It showcases how to build a smooth and responsive chat interface using **XML**, 
 - 🧠 Smart bot response system (via API integration)  
 - 🕒 Message timestamps  
 - 🗂️ Local chat history storage using Room Database  
-- ⚡ Asynchronous API calls using Retrofit + Coroutines  
 - 🔄 Conversation sync with backend  
 - 📱 Responsive layout for all screen sizes  
 
@@ -32,7 +31,6 @@ It showcases how to build a smooth and responsive chat interface using **XML**, 
 | **Language** | Kotlin |
 | **UI Toolkit** | XML |
 | **Architecture** | MVVM (Model-View-ViewModel) |
-| **Networking** | Retrofit |
 | **Database** | Room Database | FireBase
 | **Asynchronous Handling** | Kotlin Coroutines |
 | **Build System** | Gradle (Kotlin DSL) |

@@ -15,7 +15,7 @@ It showcases how to build a smooth and responsive chat interface using **Jetpack
 ## ✨ Features
 
 - 🗨️ Real-time chat messaging  
-- 💎 Clean and glassy UI using Jetpack Compose  
+- 💎 XLM ui 
 - 🧠 Smart bot response system (via API integration)  
 - 🕒 Message timestamps  
 - 🗂️ Local chat history storage using Room Database  
@@ -30,12 +30,11 @@ It showcases how to build a smooth and responsive chat interface using **Jetpack
 | Category | Technology |
 |-----------|-------------|
 | **Language** | Kotlin |
-| **UI Toolkit** | Jetpack Compose |
+| **UI Toolkit** | XML |
 | **Architecture** | MVVM (Model-View-ViewModel) |
 | **Networking** | Retrofit |
 | **Database** | Room Database |
 | **Asynchronous Handling** | Kotlin Coroutines |
-| **Backend** | REST API hosted on DigitalOcean |
 | **Build System** | Gradle (Kotlin DSL) |
 
 ---

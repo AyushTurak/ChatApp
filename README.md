@@ -8,7 +8,7 @@ This app demonstrates clean architecture, API integration, and an intuitive chat
 ## 🚀 Overview
 
 **ChatApp** allows users to send and receive real-time messages through an integrated backend API.  
-It showcases how to build a smooth and responsive chat interface using **Jetpack Compose**, **Retrofit**, and **ViewModel (MVVM)** architecture.
+It showcases how to build a smooth and responsive chat interface using **XML**, **Retrofit**, and **ViewModel (MVVM)** architecture.
 
 ---
 

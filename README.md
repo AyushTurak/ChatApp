@@ -33,7 +33,7 @@ It showcases how to build a smooth and responsive chat interface using **Jetpack
 | **UI Toolkit** | XML |
 | **Architecture** | MVVM (Model-View-ViewModel) |
 | **Networking** | Retrofit |
-| **Database** | Room Database |
+| **Database** | Room Database | FireBase
 | **Asynchronous Handling** | Kotlin Coroutines |
 | **Build System** | Gradle (Kotlin DSL) |
 
